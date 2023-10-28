@@ -3,7 +3,7 @@ import google_auth_oauthlib.flow
 import googleapiclient.discovery
 
 # Set the API key you obtained from the Google Developers Console
-api_key = "AIzaSyCViakDt1TE7RNr8svnAD2MN7NvybyKsMw"
+api_key = "your API key"
 
 # Set up the YouTube Data API client
 def get_youtube_trending_games(api_key):

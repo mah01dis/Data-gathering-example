@@ -1,7 +1,7 @@
 import googleapiclient.discovery
 
 # Set your API key here
-API_KEY = 'AIzaSyCViakDt1TE7RNr8svnAD2MN7NvybyKsMw'
+API_KEY = 'your API key'
 
 # Create a YouTube Data API client
 youtube = googleapiclient.discovery.build('youtube', 'v3', developerKey=API_KEY)

@@ -4,7 +4,7 @@ import json
 # Define the URL for scraping top games from the Google Play Store
 url = "https://serpapi.com/search?engine=google_play"
 # Set your API key here
-api_key = "5ea2c924fca3cbde77611d58c2ca224cc25ddc1c"
+api_key = "your API key"
 
 # Define the parameters for the request
 params = {
